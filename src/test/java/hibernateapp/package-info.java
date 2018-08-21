@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author arturo
+ *
+ */
+package hibernateapp;
